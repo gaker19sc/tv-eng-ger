@@ -7914,4 +7914,5 @@ http://as-hls-ww-live.akamaized.net/pool_05353924/live/ww/bbc_wm/bbc_wm.isml/bbc
 http://as-hls-ww-live.akamaized.net/pool_90848428/live/ww/bbc_radio_york/bbc_radio_york.isml/bbc_radio_york-audio%3d96000.norewind.m3u8
 #EXTINF:-1,BBC - Three Counties Radio
 http://as-hls-ww-live.akamaized.net/pool_69997923/live/ww/bbc_three_counties_radio/bbc_three_counties_radio.isml/bbc_three_counties_radio-audio%3d96000.norewind.m3u8
-
+#EXTINF:-1,Lofi Girl
+https://boxradio-edge-10.streamafrica.net/lofi
